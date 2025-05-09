@@ -1,7 +1,7 @@
 //your JS code here. If required.
 let promise = new Promise((resolve,reject) => {
 	setTimeout(()=>{
-		resolve(`hello, world!`);
+		resolve(`Hello, world!`);
 	},1000)
 })
 
